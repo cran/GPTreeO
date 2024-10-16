@@ -1,11 +1,12 @@
 Type: Package
 Package: GPTreeO
 Title: Dividing Local Gaussian Processes for Online Learning Regression
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person(given = "Timo",
            family = "Braun",
            role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0001-0965-8285"),
            email = "gptreeo.timo.braun@gmail.com"),
     person(given = "Anders",
            family = "Kvellestad",
@@ -32,9 +33,9 @@ Encoding: UTF-8
 RoxygenNote: 7.3.1
 Language: en-US
 NeedsCompilation: no
-Packaged: 2024-09-22 08:28:40 UTC; traschpanda
-Author: Timo Braun [aut, cre],
+Packaged: 2024-10-16 15:06:08 UTC; traschpanda
+Author: Timo Braun [aut, cre] (<https://orcid.org/0009-0001-0965-8285>),
   Anders Kvellestad [aut] (<https://orcid.org/0000-0002-5267-7705>),
   Riccardo De Bin [ctb] (<https://orcid.org/0000-0002-7441-6880>)
 Repository: CRAN
-Date/Publication: 2024-09-23 13:40:58 UTC
+Date/Publication: 2024-10-16 15:20:02 UTC
